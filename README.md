@@ -14,5 +14,5 @@ nome, cpf, telefone, contrato.
 
 ⇨ Como essas entidades estão relacionadas?
 
-Um relacionamento é uma associação entre diversas entidades. Por exemplo, podemos definir um relacionamento que associa o aluno Harris à turma 401. Isto especifica que Harris é um aluno do curso da sala 401.
+Um relacionamento é uma associação entre diversas entidades. Por exemplo, podemos definir um relacionamento que associa o aluno Harry à turma 401. Isto especifica que Harry é um aluno do curso da sala 401.
 
